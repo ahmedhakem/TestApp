@@ -12,8 +12,13 @@
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 ## Instructions to get this project work
-1- download vendor folder via running command >> composer install.
-2- creating project's database >> testApp.
-3- Run database migrations via running command >> php artisan migrate.
-4- Run database seeders via running command >> php artisan db:seed.
+<ul>
+    <li>1- download vendor folder via running command >> composer install.</li>
+    <li>2- creating project's database >> testApp.</li>
+    <li>3- Run database migrations via running command >> php artisan migrate.</li>
+    <li>4- Run database seeders via running command >> php artisan db:seed.</li>
+</ul>
+
+
+
 
